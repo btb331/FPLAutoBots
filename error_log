@@ -1,0 +1,3 @@
+[04-Feb-2019 04:06:12 America/Chicago] PHP Fatal error:  Call to a member function get_game_data() on a non-object in /home2/btb331/public_html/fpl/fpl-autobot/inc/FPL/Bot/RandomBot.php on line 14
+[08-Feb-2019 07:06:39 America/Chicago] PHP Fatal error:  Call to undefined function Util\array_column() in /home2/btb331/public_html/fpl/fpl-autobot/inc/Util/MArray.php on line 54
+[22-Feb-2019 04:06:48 America/Chicago] PHP Fatal error:  Call to undefined function Util\array_column() in /home2/btb331/public_html/fpl/fpl-autobot/inc/Util/MArray.php on line 54
